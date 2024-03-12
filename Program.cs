@@ -9,9 +9,75 @@ internal class Program
 
         KodePos kodePosObj = new KodePos();
 
-        string kelurahan = "Batununggal";
-        string kodePos = kodePosObj.getKodePos(kelurahan);
-        System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        System.Console.Write("Pilih kelurahan yang ingin dicari kode posnya: ");
+        a = System.Console.ReadLine();
+
+        if (a == "Batununggal")
+        {
+            string kelurahan = "Batununggal";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Kujangsari")
+        {
+            string kelurahan = "Kujangsari";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Mengger")
+        {
+            string kelurahan = "Mengger";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Wates")
+        {
+            string kelurahan = "Wates";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Cijaura")
+        {
+            string kelurahan = "Cijaura";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Jatisari")
+        {
+            string kelurahan = "Jatisari";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Margasari")
+        {
+            string kelurahan = "Margasari";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        }
+        else if (a == "Sekejati")
+        {
+            string kelurahan = "Sekejati";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        } else if (a == "Kebonwaru")
+        {
+            string kelurahan = "Kebonwaru";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        } else if (a == "Maleer")
+        {
+            string kelurahan = "Maleer";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        } else if (a == "Samoja")
+        {
+            string kelurahan = "Samoja";
+            string kodePos = kodePosObj.getKodePos(kelurahan);
+            System.Console.WriteLine($"Kode pos untuk kelurahan {kelurahan}: {kodePos}");
+        } else
+        {
+            System.Console.WriteLine("Eweuh kelurahan na euy");
+        }
     }
 }
 
@@ -39,7 +105,7 @@ public class KodePos
             return kodePosTable[kelurahan];
         } else
         {
-            return "Kode pos gaada bos";
+            return "Eweuh kelurahan na euy";
         }
     }
 }

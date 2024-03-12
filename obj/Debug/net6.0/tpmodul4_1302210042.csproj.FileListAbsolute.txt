@@ -1,0 +1,14 @@
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\bin\Debug\net6.0\tpmodul4_1302210042.exe
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\bin\Debug\net6.0\tpmodul4_1302210042.deps.json
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\bin\Debug\net6.0\tpmodul4_1302210042.runtimeconfig.json
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\bin\Debug\net6.0\tpmodul4_1302210042.dll
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\bin\Debug\net6.0\tpmodul4_1302210042.pdb
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.AssemblyInfoInputs.cache
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.AssemblyInfo.cs
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.csproj.CoreCompileInputs.cache
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.dll
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\refint\tpmodul4_1302210042.dll
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.pdb
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\tpmodul4_1302210042.genruntimeconfig.cache
+C:\Users\dhafg\source\repos\tpmodul4_1302210042\tpmodul4_1302210042\obj\Debug\net6.0\ref\tpmodul4_1302210042.dll
